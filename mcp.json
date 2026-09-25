@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "modelcostcomparison": {
+      "url": "https://modelcostcomparison.com/api/v1/mcp"
+    }
+  }
+}

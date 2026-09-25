@@ -1,0 +1,16 @@
+{
+  "name": "modelcostcomparison",
+  "version": "1.0.0",
+  "description": "Find AI model pricing, calculate token costs and compare offers using ModelCostComparison.",
+  "author": {
+    "name": "ModelCostComparison"
+  },
+  "homepage": "https://modelcostcomparison.com/developers",
+  "keywords": [
+    "mcp",
+    "pricing",
+    "ai",
+    "cost-comparison"
+  ],
+  "mcpServers": "./mcp.json"
+}
