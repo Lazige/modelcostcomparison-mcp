@@ -51,3 +51,7 @@ This repository contains connection settings and documentation only. Pricing and
 - [Developer documentation](https://modelcostcomparison.com/developers#mcp)
 - [Cursor install links](https://cursor.com/docs/mcp/install-links)
 - [Claude custom connectors](https://support.claude.com/en/articles/11175166-get-started-with-custom-connectors-using-remote-mcp)
+
+## Official MCP Registry
+
+Published as `io.github.Lazige/modelcostcomparison`, version `1.0.0`. [Registry entry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.Lazige%2Fmodelcostcomparison/versions/1.0.0). The registry metadata lives in `server.json`.

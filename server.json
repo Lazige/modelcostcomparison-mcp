@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Lazige/modelcostcomparison",
+  "title": "ModelCostComparison",
+  "description": "Find AI model pricing, estimate token costs and compare offers. No API key required.",
+  "version": "1.0.0",
+  "websiteUrl": "https://modelcostcomparison.com/developers",
+  "repository": {
+    "url": "https://github.com/Lazige/modelcostcomparison-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://modelcostcomparison.com/images/lazige-logotype.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://modelcostcomparison.com/api/v1/mcp"
+    }
+  ]
+}
