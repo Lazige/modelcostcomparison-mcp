@@ -1,5 +1,9 @@
 # ModelCostComparison MCP
 
+Measured by MCPmetrics:
+
+[![MCPmetrics: measured MCP protocol support](https://mcpmetrics.io/badge/io.github.Lazige/modelcostcomparison/era.svg)](https://mcpmetrics.io/servers/io-github-lazige-modelcostcomparison)
+
 Connect your AI client to the same pricing source and calculation engine used by [ModelCostComparison](https://modelcostcomparison.com).
 
 [Install in Cursor](cursor://anysphere.cursor-deeplink/mcp/install?name=modelcostcomparison&config=eyJ1cmwiOiJodHRwczovL21vZGVsY29zdGNvbXBhcmlzb24uY29tL2FwaS92MS9tY3AifQ%3D%3D)
