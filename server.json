@@ -3,7 +3,7 @@
   "name": "io.github.Lazige/modelcostcomparison",
   "title": "ModelCostComparison",
   "description": "Find AI model pricing, estimate token costs and compare offers. No API key required.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://modelcostcomparison.com/developers",
   "repository": {
     "url": "https://github.com/Lazige/modelcostcomparison-mcp",

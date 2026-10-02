@@ -33,6 +33,8 @@ Add a remote MCP server with the endpoint above and Streamable HTTP transport.
 | `get_model_pricing` | Get rates, sources and review dates. |
 | `calculate_cost` | Calculate input, output and cached-input token costs. |
 | `compare_model_costs` | Compare offers for the same token workload. |
+| `find_cheapest_models` | Rank eligible reviewed offers for a token workload. |
+| `list_providers` | Summarize providers, offers and current price ranges. |
 
 ## Try it
 
@@ -58,4 +60,4 @@ This repository contains connection settings and documentation only. Pricing and
 
 ## Official MCP Registry
 
-Published as `io.github.Lazige/modelcostcomparison`, version `1.0.0`. [Registry entry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.Lazige%2Fmodelcostcomparison/versions/1.0.0). The registry metadata lives in `server.json`.
+Published as `io.github.Lazige/modelcostcomparison`, version `1.0.1`. [Registry entry](https://registry.modelcontextprotocol.io/v0.1/servers/io.github.Lazige%2Fmodelcostcomparison/versions/1.0.1). The registry metadata lives in `server.json`.
